@@ -1,8 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 9 回目
 
-Currently, two official plugins are available:
+- 認証のファイルをベースに登録、表示、更新、削除を実装します 😊
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 注意事項
+
+.env ファイルの書き換えを忘れないようにしましょう 😊
+
+### 今回使う npm を用いてアイコンを表示してみましょう 😊
+
+https://react-icons.github.io/react-icons/
+
+```
+注意！
+使いたいアイコンで
+設定するものが変わりますのでご注意ください:ぽっ:
+import { IconName } from "react-icons/xx";
+xxのところが異なります！
+
+```
